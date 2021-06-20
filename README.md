@@ -1,5 +1,5 @@
-## Messaging App Project
-# Features implemented:
+# Messaging App Project
+## Features implemented:
 
 1. Ability to login, register if not registered, and log out
 2. Ability to reset password if forgotten it
